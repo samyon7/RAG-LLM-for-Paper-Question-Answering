@@ -10,7 +10,7 @@ This repository provides a framework for creating a Retrieval-Augmented Generati
 Instructions on how to install dependencies, set up the environment, and run the model are provided in the repository.
 
 ### Contributions:
-We welcome contributions to improve the model, add features, and expand its applicability. Please refer to the CONTRIBUTING.md for guidelines.
+We welcome contributions to improve the model, add features, and expand its applicability. 
 
 
 Feel free to adjust the description based on specific functionalities or focus areas of your project.
